@@ -1,0 +1,28 @@
+{
+    "name": "jinjie/slickhero-elemental",
+    "description": "Silverstripe elemental for jinjie/slickhero",
+    "keywords": [
+        "silverstripe",
+        "slickjs",
+        "hero",
+        "silverstripe",
+        "elemental"
+    ],
+    "type": "silverstripe-vendormodule",
+    "require": {
+        "jinjie/slickhero": "dev-master",
+        "dnadesign/silverstripe-elemental": "^4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kong Jin Jie",
+            "email": "jinjie@swiftdev.sg"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "SwiftDevLabs\\SlickHeroElemental\\": "src"
+        }
+    }
+}
