@@ -10,7 +10,7 @@
     ],
     "type": "silverstripe-vendormodule",
     "require": {
-        "jinjie/slickhero": "dev-master",
+        "jinjie/slickhero": "^1",
         "dnadesign/silverstripe-elemental": "^4"
     },
     "license": "MIT",
